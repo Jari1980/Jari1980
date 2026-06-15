@@ -1,8 +1,8 @@
 # Hi there
 
 ## Tech Stack
-Java
-.Net/C#
+Java,
+.Net/C# and
 ReactJS (Going TS last projects)
 
 Mainly webbdevelopment with API's and MVC projects.
