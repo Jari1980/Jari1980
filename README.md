@@ -6,6 +6,6 @@ Java,
 ReactJS (Going TS last projects)
 
 Mainly webbdevelopment with API and MVC projects.
-Working on microfunctions, docker and CI/CD skills.
+Working on microfunction, Docker and CI/CD skills.
 
 Beside computers I do like Broccoli
